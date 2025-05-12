@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:toku_app/components/item.dart';
 import 'package:toku_app/components/phrase_item.dart';
 import '../models/number.dart';
 
