@@ -6,7 +6,7 @@ void main() {
 }
 
 class TokuApp extends StatelessWidget {
-  const TokuApp({Key? key}) : super(key: key);
+  const TokuApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -16,5 +16,3 @@ class TokuApp extends StatelessWidget {
     );
   }
 }
-
-
